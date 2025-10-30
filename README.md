@@ -4,6 +4,13 @@
 This project demonstrates how to build a **robust time series forecasting pipeline** when the source data contain **multiple vintages** — repeated historical releases of the same series over time.  
 It shows that with the right structuring and analysis, **simple statistical models** can achieve **high accuracy** even on revision-prone datasets.
 
+<br>
+
+<img width="987" height="490" alt="visualisation" src="https://github.com/user-attachments/assets/200288cb-0ac7-419c-bfac-1076ba5c1b99" />
+<img width="989" height="490" alt="Forecast" src="https://github.com/user-attachments/assets/b2d2b087-b984-4b92-af25-cbb781a55af6" />
+
+<br>
+
 ---
 
 ### 🏗️ Project Structure  
