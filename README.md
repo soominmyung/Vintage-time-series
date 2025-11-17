@@ -62,7 +62,6 @@ In this dataset, the month-by-vintage grid turned out to be dense and stable, al
 ### ⚙️ Tech Stack  
 - **Python 3** (pandas, requests, BeautifulSoup, dateutil)
 - **Automated data Pipeline**
-- **Git Versioning & Workflow**
 - **Matplotlib / Plotly** for visualisation  
 - **Statsmodels / Scikit-learn** for forecasting experiments  
 
