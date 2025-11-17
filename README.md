@@ -1,9 +1,9 @@
 ## 📈 Vacancy Forecasting with Multi-Vintage Time Series
 
 ### 🧩 Overview  
-This project demonstrates how to build a **robust time series forecasting pipeline** when the source data contain **multiple vintages** — repeated historical releases of the same series over time.  
-It shows that with the right structuring and analysis, **simple statistical models** can achieve **high accuracy** even on revision-prone datasets.
-It includes an **automated data workflow** that ingests, cleans, and aligns each vintage before modelling, ensuring consistent structures across revisions.
+This project presents a **revision-aware forecasting pipeline** designed for datasets with **multiple vintages** — historical releases that are continually revised over time.
+It includes an **automated data workflow** that ingests, cleans, and aligns each vintage before modelling, ensuring consistent structure across revisions.
+By organising the data correctly upstream, the project shows that **simple statistical models can perform surprisingly well even in highly revision-prone environments.**
 
 <br>
 
