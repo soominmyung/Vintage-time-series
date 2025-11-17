@@ -3,6 +3,7 @@
 ### 🧩 Overview  
 This project demonstrates how to build a **robust time series forecasting pipeline** when the source data contain **multiple vintages** — repeated historical releases of the same series over time.  
 It shows that with the right structuring and analysis, **simple statistical models** can achieve **high accuracy** even on revision-prone datasets.
+It includes an **automated data workflow** that ingests, cleans, and aligns each vintage before modelling, ensuring consistent structures across revisions.
 
 <br>
 
@@ -59,7 +60,9 @@ In this dataset, the month-by-vintage grid turned out to be dense and stable, al
 ---
 
 ### ⚙️ Tech Stack  
-- **Python 3** (pandas, requests, BeautifulSoup, dateutil)  
+- **Python 3** (pandas, requests, BeautifulSoup, dateutil)
+- **Automated data Pipeline**
+- **Git Versioning & Workflow**
 - **Matplotlib / Plotly** for visualisation  
 - **Statsmodels / Scikit-learn** for forecasting experiments  
 
